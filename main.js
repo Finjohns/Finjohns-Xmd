@@ -112,7 +112,7 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
     const Bellah = makeWASocket({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: !pairingCode, // popping up QR in terminal log
-      mobile: useMobile, // mobile api (prone to bans)
+      
       browser: [ "Ubuntu", "Chrome", "20.0.04" ], // for this issues https://github.com/WhiskeySockets/Baileys/issues/328
      auth: {
          creds: state.creds,
@@ -205,12 +205,36 @@ try{
 			console.log(color(` `,'magenta'))
             console.log(color(`Connected to => ` + JSON.stringify(Bellah.user, null, 2), 'green'))
 			await delay(1999)
-			Bellah.sendMessage(`254788460896@s.whatsapp.net`, { text: `\`CONNECTED\`
+			Bellah.sendMessage(Bellah.user.id, {
+image: {
+url: 'https://files.catbox.moe/t3gs2m.jpg'
+}, 
+caption: ` VolTah Xmd (Bellah Xmd V2) connected
+> Bot prefix: ${global.xprefix}
 
- Holla, 😴,Connected`})
+> Owner: ${global.ownernumber}
+
+> BotName: ${global.botname}
+
+> Total Command: 86
+
+> Mode:  ${Bellah.public ? '𝗣𝘂𝗯𝗹𝗶𝗰 ϟ' : '𝗣𝗿𝗶𝘃𝗮𝘁𝗲 ϟ'}
+
+*Follow support for updates*
+https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D
+
+*Join Group*
+
+https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H
+
+
+> Enjoy 😍`
+})
+
+
 			await Bellah.newsletterFollow(channelId);
        const CFonts = require('cfonts');
-CFonts.say('BELLAH XMD', {
+CFonts.say('BELLAH XMD V2', {
   font: 'tiny',              // Jenis font
   align: 'left',            // Posisi teks (left, center, right)
   colors: ['blue', 'white'],    // Warna teks
@@ -230,7 +254,7 @@ CFonts.say('BELLAH XMD', {
             console.log(color(`${themeemoji} RECODE: ${wm}\n`,'magenta'))
             await delay(1000 * 2) 
             Bellah.groupAcceptInvite("JmsgzJllAAB8zHfQcJXxES")*/
-            console.log('> Bot is Connected< [ ! ]')
+            console.log('> VolTah Xmd Is Running< [ ! ]')
 		}
 	
 } catch (err) {
