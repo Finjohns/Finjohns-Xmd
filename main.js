@@ -207,7 +207,7 @@ try{
 			await delay(1999)
 			Bellah.sendMessage(Bellah.user.id, {
 image: {
-url: 'https://files.catbox.moe/t3gs2m.jpg'
+url: 'https://files.catbox.moe/rl4qpe.jpg'
 }, 
 caption: ` Finjohns Xmd (By 𝐉𝐢𝐧𝐰𝐢𝐢𝐥𝐎𝐧𝐠𝐢𝐧𝐣𝐨) connected
 > Bot prefix: ${global.xprefix}
@@ -218,10 +218,10 @@ caption: ` Finjohns Xmd (By 𝐉𝐢𝐧𝐰𝐢𝐢𝐥𝐎𝐧𝐠𝐢𝐧𝐣
 
 > Total Command: 86
 
-> Mode:  ${Bellah.public ? '𝗣𝘂𝗯𝗹𝗶𝗰 ϟ' : '𝗣𝗿𝗶𝘃𝗮𝘁𝗲 ϟ'}
+> Mode:  ${Bellah.public ? 'Private ϟ' : '𝗣𝗿𝗶𝘃𝗮𝘁𝗲 ϟ'}
 
-*Follow support for updates*
-
+*Follow support for updates*:
+'https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N'
 
 *Join Group*
 
