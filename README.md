@@ -1,15 +1,15 @@
-# BELLAH-XMD V2 (VolTah Xmd) is here
+# 𝐉𝐢𝐧𝐰𝐢𝐢𝐥TECH (Finjohns Xmd) is here
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BELLAH-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GIDDY+TENNOR;RELEASED+24.03.2025" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FINJOHNS-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JINWIIL+ONGINJO;RELEASED+27.03.2025" alt="Typing SVG" /></a>
 <p align="center">
-<a href="https://github.com/Tennor-modz"><img title="Author" src="https://files.catbox.moe/t3gs2m.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/finjohns"><img title="Author" src="https://files.catbox.moe/69gmrh.mp4?style=for-the-badge&logo=github"></a>
 
 <p align="center">
-<a href="https://github.com/Tennor-modz/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tennor-modz?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tennor-modz/Bellah-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tennor-modz/Bellah-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Tennor-modz/Bellah-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/finjohns/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jinwiiltech?color=blue&style=flat-square"></a>
+<a href="https://github.com/Finjohns/Finjohns-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ Finjohns/Finjohns-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Finjohns/Finjohns-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Finjohns/Finjohns-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Finjohns/Finjohns-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Finjohns/Finjohns-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/Finjohns/Finjohns-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 `Polite Notice`
@@ -19,8 +19,8 @@
 
 
 
-  ## VolTah Xmd Set up✅
-  1.  > ***`Star ⭐` repository & Click [`FORK`](https://github.com/Tennor-modz/bellah-XMD/fork)***
+  ## Finjohns Xmd Set up✅
+  1.  > ***`Star ⭐` repository & Click [`FORK`](https://github.com/Finjohns/finjohns-XMD/fork)***
       
 
       
@@ -28,7 +28,7 @@
   2.  > **Deployment Site(Heroku $ Panel)**
 
 <a href='https://vol-tah-web.vercel.app/' target="_blank">
-  <img alt='VolTah Deploy' src='https://img.shields.io/badge/Deploy%20VolTah%20Xmd-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='Finjohns Deploy' src='https://img.shields.io/badge/Deploy%20Finjohns%20Xmd-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
@@ -79,9 +79,9 @@ Thanks to...
 
 <div align="center">
 
-| [![GiddyTennor](https://github.com/Tennor-modz.png?lenght=50width=50)](https://github.com/Tennor-modz)|
+| [![JinwiilOnginjo](https://github.com/Tennor-modz.png?lenght=50width=50)](https://github.com/Finjohns)|
 |----|
-* [`GiddyTennor`](https://github.com/Tennor-modz) ***Author, Owner, Developer***
+* [`JinwiilOnginjo`](https://github.com/Finjohns) ***Author, Owner, Developer***
 
 
 * [`Tylor `](https://github.com/Dark-Xploit) ***Setting up heroku deployment and Whiskey baiyleys***
