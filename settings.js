@@ -1,6 +1,6 @@
-//base by DGXeon
-//recode by GIDDY TENNOR 
-//YouTube: @GIDDYTENNOR
+//base by Giddy
+//recode by @JinwiilOnginjo
+//YouTube: @JinwiilOnginjo
 
 
 const fs = require('fs')
@@ -10,7 +10,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 global.SESSION_ID = process.env.SESSION_ID ||'put your session here ' 
 //owmner v card
-global.ytname = "YT: https://youtube.com/@jinwiilonginjo?si=LzyMkHvkhEAudL94" //ur yt chanel name
+global.ytname = "YT: @JinwiilOnginjo" //ur yt chanel name
 global.socialm = "IG: @jinwiil_onginjo" //ur github or insta name
 global.location = "Kenya" //ur location
 
