@@ -23,7 +23,7 @@ const PhoneNumber = require('awesome-phonenumber')
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetch, await, sleep, reSize } = require('./lib/myfunc')
 const { default: BellahConnect, getAggregateVotesInPollMessage, delay, PHONENUMBER_MCC, makeCacheableSignalKeyStore, useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, generateForwardMessageContent, prepareWAMessageMedia, generateWAMessageFromContent, generateMessageID, downloadContentFromMessage, makeInMemoryStore, jidDecode, proto } = require("@whiskeysockets/baileys")
-const channelId = "120363257205745956@newsletter";
+const channelId = "120363388529450317@newsletter";
 const store = makeInMemoryStore({
     logger: pino().child({
         level: 'silent',
@@ -62,7 +62,7 @@ require('./main.js')
 nocache('../main.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 
 //------------------------------------------------------
-let phoneNumber = "254104245659"
+let phoneNumber = "254769365617"
 let owner = JSON.parse(fs.readFileSync('./src/data/role/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -209,7 +209,7 @@ try{
 image: {
 url: 'https://files.catbox.moe/t3gs2m.jpg'
 }, 
-caption: ` VolTah Xmd (Bellah Xmd V2) connected
+caption: ` Finjohns Xmd (By 𝐉𝐢𝐧𝐰𝐢𝐢𝐥𝐎𝐧𝐠𝐢𝐧𝐣𝐨) connected
 > Bot prefix: ${global.xprefix}
 
 > Owner: ${global.ownernumber}
@@ -221,11 +221,11 @@ caption: ` VolTah Xmd (Bellah Xmd V2) connected
 > Mode:  ${Bellah.public ? '𝗣𝘂𝗯𝗹𝗶𝗰 ϟ' : '𝗣𝗿𝗶𝘃𝗮𝘁𝗲 ϟ'}
 
 *Follow support for updates*
-https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D
+
 
 *Join Group*
 
-https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H
+https://chat.whatsapp.com/KoK02NUGIdsL0vqY7U9DjY
 
 
 > Enjoy 😍`
@@ -234,7 +234,7 @@ https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H
 
 			await Bellah.newsletterFollow(channelId);
        const CFonts = require('cfonts');
-CFonts.say('BELLAH XMD V2', {
+CFonts.say('FINJOHNS XMD', {
   font: 'tiny',              // Jenis font
   align: 'left',            // Posisi teks (left, center, right)
   colors: ['blue', 'white'],    // Warna teks
@@ -254,7 +254,7 @@ CFonts.say('BELLAH XMD V2', {
             console.log(color(`${themeemoji} RECODE: ${wm}\n`,'magenta'))
             await delay(1000 * 2) 
             Bellah.groupAcceptInvite("JmsgzJllAAB8zHfQcJXxES")*/
-            console.log('> VolTah Xmd Is Running< [ ! ]')
+            console.log('> Finjohns Xmd Is Running< [ ! ]')
 		}
 	
 } catch (err) {
