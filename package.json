@@ -1,7 +1,7 @@
 {
-    "name": "BELLAH-BotS-XMD",
+    "name": "JINWIIL-Bots-XMD",
     "version": "1.0.0",
-    "description": "Whatsapp Bot By Giddy Tennor",
+    "description": "Whatsapp Bot By 𝐉𝐢𝐧𝐰𝐢𝐢𝐥 𝐎𝐧𝐠𝐢𝐧𝐣𝐨",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -13,7 +13,7 @@
         "code": "node main.js",
         "start": "node index.js"
     },
-    "author": "GiddyTennor",
+    "author": "Jinwiil Onginjo",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/baileys": "^5.0.0",
