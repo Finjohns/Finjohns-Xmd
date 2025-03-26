@@ -1,5 +1,5 @@
 {
-  "name": "Bellah-Xmd",
+  "name": "Finjohns-Xmd",
   "version": "2.0.0",
   "description": "WhatsApp bot",
   "logo": "https://i.imgur.com/yZN5Ynv.jpeg",
@@ -17,22 +17,22 @@
 },
   "BOT_NAME": {
       "description": "Enter bot name of your choice here",
-      "value": "VolTah Xmd",
+      "value": "𝐅𝐢𝐧𝐣𝐨𝐡𝐧𝐬 Xmd",
       "required": false
     },
   "OWNER_NUMBER": {
       "description": "Enter your whatsapp number here",
-      "value": "254104245659",
+      "value": "254769365617",
       "required": true
     },
   "PACK_NAME": {
       "description": "Enter your sticker pack name",
-      "value": "VolTahXmd",
+      "value": "FinjohnsXmd",
       "required": false
     },
   "AUTOSW_VIEW": {
       "description": "Type true if you want your bot to view status updates or else type false",
-      "value": "",
+      "value": "true",
       "required": true
     },
   "WELCOME": {
@@ -47,17 +47,17 @@
     },
   "MODE": {
       "description": "Type true if you want bot status mode to be public if else type false",
-      "value": "true",
+      "value": "false",
       "required": false
     },
   "ANTIFOREIGN_NUMBER": {
       "description": "Enter antiforeignnumbers with country codes if you don't want antiforeign numbers",
-      "value": "234,263",
+      "value": "200",
       "required": false 
     },
   "BOT_PREFIX": {
       "description": "Enter bot prefix of your choice if else leave blank for multiprefixes",
-      "value": ".",
+      "value": "",
       "required": true
     },
   "AUTO_TYPING": {
