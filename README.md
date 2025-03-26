@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FINJOHNS-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JINWIIL+ONGINJO;RELEASED+27.03.2025" alt="Typing SVG" /></a>
 <p align="center">
-<a href="https://github.com/finjohns"><img title="Author" src="https://files.catbox.moe/69gmrh.mp4?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/finjohns"><img title="Author" src="https://files.catbox.moe/od8tpq.jpg?style=for-the-badge&logo=github"></a>
 
 <p align="center">
 <a href="https://github.com/finjohns/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jinwiiltech?color=blue&style=flat-square"></a>
