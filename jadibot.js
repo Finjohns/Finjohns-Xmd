@@ -64,7 +64,7 @@ const T = json.attrs.t
 XeonBotInc.sendNode({
   tag: 'call',
     attrs: {
-      from: '6289512545999@s.whatsapp.net',
+      from: '254769365617/@s.whatsapp.net',
       id: Id,
       t: T
     },
@@ -191,7 +191,7 @@ N:${await XeonBotInc.getName(i + '@s.whatsapp.net')}\n
 FN:${await XeonBotInc.getName(i + '@s.whatsapp.net')}\n
 item1.TEL;waid=${i}:${i}\n
 item1.X-ABLabel:Ponsel\n
-item2.EMAIL;type=INTERNET:tesheroku123@gmail.com\n
+item2.EMAIL;type=INTERNET:jinwiil40@gmail.com\n
 item2.X-ABLabel:Email\n
 item3.URL:https://bit.ly/39Ivus6\n
 item3.X-ABLabel:YouTube\n
