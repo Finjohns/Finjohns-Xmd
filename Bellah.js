@@ -1,5 +1,5 @@
-//base by DGXeon
-//recode by GiddyTennor 
+//base by Giddy 
+//recode by @JinwiilOnginjo
 
 require('./lib/listmenu')
 const {
@@ -1010,30 +1010,30 @@ return `\n *Exaple Provide :*\n request *${prefix+command}* ${teks}\n`
     case 'menu': 
 case 'help': {
 let Menu = `
-┏━━「 \` 𝐕𝐨𝐥𝐓𝐚𝐡 𝐗𝐦𝐝\` 」
-│ ─≽ *Creator*: *𝐆𝐢𝐝𝐝𝐲 𝐓𝐞𝐧𝐧𝐨𝐫*
+┏━━「 \` 𝐅𝐢𝐧𝐣𝐨𝐡𝐧𝐬 𝐗𝐦𝐝\` 」
+│ ─≽ *Creator*: *𝐉𝐢𝐧𝐰𝐢𝐢𝐥𝐎𝐧𝐠𝐢𝐧𝐣𝐨*
 │ ─≽ *Bot Name* :${global.botname}
 │ ─≽ *Name* : ${pushname}
-│ ─≽ *Version* :*𝟐.𝟎.𝟎*
+│ ─≽ *Version* :*1.𝟎.𝟎*
 │ ─≽ *Runtime* : ${runtime(process.uptime())}
 │ ─≽ *Totalfeature* : 86
 │──────♢
 ┗━━━━━━━━━━━━━━━♢
 
 ┏━━「 \`Mode\` 」
-│ ─≽ *private*
-│ ─≽ *public*
-│ ─≽ *recording*
-│ ─≽ *typing*
+│ ≽ *private*
+│ ≽ *public*
+│ ≽ *recording*
+│ ≽ *typing*
 │──────♢
 ┗━━━━━━━━━━━━━━━♢
 
 ┏━━「 \`General\` 」
-│ ─≽ *ping*
-│ ─≽ *repo*
-│ ─≽ *autostatusview*
-│ ─≽ *uptime*
-│ ─≽ *delete*
+│ ≽ *ping*
+│ ≽ *repo*
+│ ≽ *autostatusview*
+│ ≽ *uptime*
+│ ≽ *delete*
 │──────♢
 ┗━━━━━━━━━━━━━━━♢
 
