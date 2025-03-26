@@ -79,15 +79,15 @@ Thanks to...
 
 <div align="center">
 
-| [![JinwiilOnginjo](https://github.com/Tennor-modz.png?lenght=50width=50)](https://github.com/Finjohns)|
+| [![JinwiilOnginjo](https://github.com/https://files.catbox.moe/w5y04r.mp4?lenght=50width=50)](https://github.com/Finjohns)|
 |----|
 * [`JinwiilOnginjo`](https://github.com/Finjohns) ***Author, Owner, Developer***
 
 
-* [`Tylor `](https://github.com/Dark-Xploit) ***Setting up heroku deployment and Whiskey baiyleys***
+* [`Jinwiil `](https://github.com/Jinwiil) ***Setting up heroku deployment and Whiskey baiyleys***
 
 
-> Version 2.0.0
+> Version 1.0.0
 
 
-©𝗩𝗼𝗹𝗧𝗮𝗵 𝗫𝗺𝗱 - 𝗕𝗲𝗹𝗹𝗮𝗵 𝗫𝗺𝗱 𝗩2 2025
+©𝐅𝐢𝐧𝐣𝐨𝐡𝐧𝐬 𝗫𝗺𝗱 - ꜰɪɴᴊᴏʜɴꜱ 𝗫𝗺𝗱  2025
