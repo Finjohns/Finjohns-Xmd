@@ -79,7 +79,7 @@ Thanks to...
 
 <div align="center">
 
-| [![JinwiilOnginjo](https://github.com/https://https://files.catbox.moe/lrnb7j.jpg?lenght=50width=50)](https://github.com/Finjohns)|
+| [![JinwiilOnginjo](<a href="https://github.com/finjohns"><img title="Author" src="https://files.catbox.moe/od8tpq.jpg?style=for-the-badge&logo=github"></a>)](https://github.com/Finjohns)|
 |----|
 * [`JinwiilOnginjo`](https://github.com/Finjohns) ***Author, Owner, Developer***
 
