@@ -1038,126 +1038,126 @@ let Menu = `
 ┗━━━━━━━━━━━━━━━♢
 
 ┏━━「 \`Download\` 」
-│ ─≽ *song*
-│ ─≽ *play*
-│ ─≽ *tiktok*
-│ ─≽ *vv*
-│ ─≽ *anime*
-│ ─≽ *detiknews*
-│ ─≽ *apk*
-│ ─≽ *igdl*
-│ ─≽ *lyrics*
-│ ─≽ *spotifydown*
-│ ─≽ *spotifysearch*
-│ ─≽ *igstalk*
-│ ─≽ *tiktokstalk*
-│ ─≽ *ytmp4*
-│ ─≽ *ytmp3*
-│ ─≽ *mediafire*
-│ ─≽ *play2*
+│ ≽ *song*
+│ ≽ *play*
+│ ≽ *tiktok*
+│ ≽ *vv*
+│ ≽ *anime*
+│ ≽ *detiknews*
+│ ≽ *apk*
+│ ≽ *igdl*
+│ ≽ *lyrics*
+│ ≽ *spotifydown*
+│ ≽ *spotifysearch*
+│ ≽ *igstalk*
+│ ≽ *tiktokstalk*
+│ ≽ *ytmp4*
+│ ≽ *ytmp3*
+│ ≽ *mediafire*
+│ ≽ *play2*
 │──────♢
 ┗━━━━━━━━━━━━━━━♢
 
 ┏━━「 \`Group\` 」
-│ ─≽ *remove*
-│ ─≽ *tagall*
-│ ─≽ *hidetag*
-│ ─≽ *promote*
-│ ─≽ *demote*
-│ ─≽ *kickall*
-│ ─≽ *invite*
-│ ─≽ *add*
-│ ─≽ *open*
-│ ─≽ *close*
-│ ─≽ *antilinkgc*
-│ ─≽ *antilink*
-│ ─≽ *poll*
-│ ─≽ *setppgc*
-│ ─≽ *listonline*
-│ ─≽ *resetlink*
-│ ─≽ *pin*
-│ ─≽ *setnamegc*
-│ ─≽ *request-join*
+│ ≽ *remove*
+│ ≽ *tagall*
+│ ≽ *hidetag*
+│ ≽ *promote*
+│ ≽ *demote*
+│ ≽ *kickall*
+│ ≽ *invite*
+│ ≽ *add*
+│ ≽ *open*
+│ ≽ *close*
+│ ≽ *antilinkgc*
+│ ≽ *antilink*
+│ ≽ *poll*
+│ ≽ *setppgc*
+│ ≽ *listonline*
+│ ≽ *resetlink*
+│ ≽ *pin*
+│ ≽ *setnamegc*
+│ ≽ *request-join*
 │──────♢
 ┗━━━━━━━━━━━━━━━♢
 
 ┏━━「 \`Sticker\` 」
-│ ─≽ *s*
-│ ─≽ *take*
-│ ─≽ *brat*
-│ ─≽ *emojimix*
-│ ─≽ *notes*
+│ ≽ *s*
+│ ≽ *take*
+│ ≽ *brat*
+│ ≽ *emojimix*
+│ ≽ *notes*
 │──────♢
 ┗━━━━━━━━━━━━━━━♢
 
 ┏━━「 \`Owner\` 」
-│ ─≽ *getbio*
-│ ─≽ *block*
-│ ─≽ *unblock*
-│ ─≽ *storytext*
-│ ─≽ *storyaudio*
-│ ─≽ *storyimage*
-│ ─≽ *storyvideo*
-│ ─≽ *Creategc*
-│ ─≽ *listgc*
-│ ─≽ *setpp*
-│ ─≽ *onlypc*
-│ ─≽ *onlygc*
-│ ─≽ *reactch*
+│ ≽ *getbio*
+│ ≽ *block*
+│ ≽ *unblock*
+│ ≽ *storytext*
+│ ≽ *storyaudio*
+│ ≽ *storyimage*
+│ ≽ *storyvideo*
+│ ≽ *Creategc*
+│ ≽ *listgc*
+│ ≽ *setpp*
+│ ≽ *onlypc*
+│ ≽ *onlygc*
+│ ≽ *reactch*
 │──────♢
 ┗━━━━━━━━━━━━━━━♢
 
 ┏━━「 \`Maths\` 」
-│ ─≽ *kalkulator*
+│ ≽ *kalkulator*
 │──────♢
 ┗━━━━━━━━━━━━━━━♢
 
 ┏━━「 \`Search\` 」
-│ ─≽ *country*
-│ ─≽ *quiz*
-│ ─≽ *yts*
-│ ─≽ *pinterest*
-│ ─≽ *igstory*
-│ ─≽ *ytstalk*
-│ ─≽ *ffstalk*
-│ ─≽ *meme*
-│ ─≽ *cekkodam*
-│ ─≽ *sfile*
+│ ≽ *country*
+│ ≽ *quiz*
+│ ≽ *yts*
+│ ≽ *pinterest*
+│ ≽ *igstory*
+│ ≽ *ytstalk*
+│ ≽ *ffstalk*
+│ ≽ *meme*
+│ ≽ *cekkodam*
+│ ≽ *sfile*
 │──────♢
 ┗━━━━━━━━━━━━━━━♢
 
 ┏━━「 \`Converter\` 」
-│ ─≽ *photo*
-│ ─≽ *tovideo*
-│ ─≽ *toaudio*
-│ ─≽ *tovn*
-│ ─≽ *translate*
-│ ─≽ *tourl*
-│ ─≽ *logo*
-│ ─≽ *tts*
+│ ≽ *photo*
+│ ≽ *tovideo*
+│ ≽ *toaudio*
+│ ≽ *tovn*
+│ ≽ *translate*
+│ ≽ *tourl*
+│ ≽ *logo*
+│ ≽ *tts*
 │──────♢
 ┗━━━━━━━━━━━━━━━♢
 
 ┏━━「 \`Religion\` 」
-│ ─≽ *Quran*
-│ ─≽ *Bible*
+│ ≽ *Quran*
+│ ≽ *Bible*
 │──────♢
 ┗━━━━━━━━━━━━━━━♢
 
 ┏━━「 \`Developer\` 」
-│ ─≽ *githubstalk*
-│ ─≽ *gitclone*
+│ ≽ *githubstalk*
+│ ≽ *gitclone*
 │──────♢
 ┗━━━━━━━━━━━━━━━♢
 
 ┏━━「 \`Others\` 」
-│ ─≽ *cc*
+│ ≽ *cc*
 │──────♢
 ┗━━━━━━━━━━━━━━━♢
 ` 
     Bellah.sendMessage(m.chat, {
         image: {
-            url: `https://files.catbox.moe/t3gs2m.jpg`
+            url: `https://files.catbox.moe/lrnb7j.jpg`
         },
         caption: Menu,
         gifPlayback: false
@@ -1279,7 +1279,7 @@ break
 case "reactionch": case "reactch": {
  if (!Owner) return m.reply(mess.owner)
  if (!text || !args[0] || !args[1]) 
- return m.reply("Contoh penggunaan:\n.reactch https://whatsapp.com/channel/0029VakRR89L7UVPwf53TB0v/4054 😂")
+ return m.reply("Contoh penggunaan:\n.reactch https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N 😂")
  if (!args[0].includes("https://whatsapp.com/channel/")) 
  return m.reply("provide a valid link")
  let result = args[0].split('/')[4]
@@ -2649,7 +2649,7 @@ case 'block':
                 case "repo": {
   try {
     let me = m.sender;
- const response = await axios.get(`https://api.github.com/repos/Tennor-modz/Bellah-Xmd`)
+ const response = await axios.get(`https://api.github.com/repos/Finjohns/Finjohns-Xmd`)
     if (response.status === 200) {
       const repoData = response.data
       const repos = `
@@ -2663,26 +2663,26 @@ case 'block':
 > ${repoData.forks_count}
 
 *GITHUB LINK:* 
-https://github.com/Tennor-modz/Bellah-Xmd
+https://github.com/Finjohns/Finjohns-Xmd
 
-@${me.split("@")[0]}👋, Star ⭐ fork and deploy my repo 🤭
+@${me.split("@")[0]}👋, Star ⭐ fork and deploy my repo 😺
 
-> 𝗩𝗼𝗹𝘁𝗮𝗵 𝗫𝗺𝗱`;
+> 𝐅𝐢𝐧𝐣𝐨𝐡𝐧𝐬 𝗫𝗺𝗱`;
 Bellah.sendMessage(m.chat, { text : repos,
 contextInfo: {
 mentionedJid: [m.sender],
 forwardingScore: 9999, 
 isForwarded: true, 
 forwardedNewsletterMessageInfo: {
-newsletterJid: 'https://chat.whatsapp.com/Hs0AwkOaFzbGi5sjicdeTR',
+newsletterJid:'https://chat.whatsapp.com/KoK02NUGIdsL0vqY7U9DjY',
 serverMessageId: 20,
-newsletterName: '𝗩𝗼𝗹𝘁𝗮𝗵'
+newsletterName: '𝐅𝐢𝐧𝐣𝐨𝐡𝐧𝐬'
 },
 externalAdReply: {
-title: "𝗩𝗼𝗹𝘁𝗮𝗵", 
+title: "𝐅𝐢𝐧𝐣𝐨𝐡𝐧𝐬", 
 body: "",
-thumbnail: null, 
-sourceUrl: null,
+thumbnail: 'https://files.catbox.moe/rl4qpe.jpg', 
+sourceUrl: "https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N",
 mediaType: 1
 }}}, { quoted : m })
     } else {
@@ -2732,7 +2732,7 @@ break
             
 //========================================================\\
 case "ping": {
-await m.reply(`𝗩𝗼𝗹𝗧𝗮𝗵 𝗦𝗽𝗲𝗲𝗱 𝗖𝗵𝗲𝗰𝗸`)
+await m.reply(`𝐅𝐢𝐧𝐣𝐨𝐡𝐧𝐬 latency`)
   const memoryUsage = process.memoryUsage();
   const cpuInfo = os.cpus().map(cpu => ({
     total: Object.values(cpu.times).reduce((a, b) => a + b, 0),
@@ -2754,14 +2754,14 @@ await m.reply(`𝗩𝗼𝗹𝗧𝗮𝗵 𝗦𝗽𝗲𝗲𝗱 𝗖𝗵𝗲𝗰�
 
   const startTime = performance.now();
   const latency = performance.now() - startTime;
-  const finalStatus = `𝗩𝗼𝗹𝗧𝗮𝗵 𝗫𝗺𝗱: ${latency.toFixed(4)} ms`;
+  const finalStatus = `𝐅𝐢𝐧𝐣𝐨𝐡𝐧𝐬 𝗫𝗺𝗱: ${latency.toFixed(4)} ms`;
   m.reply(finalStatus);
 }
 break;  
             //========================================================\\    
                 case 'uptime': { 
 
-         reply (`━━━━━━━━━━━━━━━━━\n\◉‿◉Welcome ${m.pushName}\n\━━━━━━━━━━━━━━━━━\n\*Voltah Xmd has been running for*  : ${runtime(process.uptime())} \n\━━━━━━━━━━━━━━━━━`); 
+         reply (`━━━━━━━━━━━━━━━━━\n\◉‿◉Welcome ${m.pushName}\n\━━━━━━━━━━━━━━━━━\n\*ꜰɪɴᴊᴏʜɴꜱ Xmd has been running for*  : ${runtime(process.uptime())} \n\━━━━━━━━━━━━━━━━━`); 
 }
 break;
           
@@ -2938,7 +2938,7 @@ case 'linkgroup':
                 if (!isAdmins && !isGroupOwner && !Owner) return m.reply(mess.admin)
                 if (!isBotAdmins) return m.reply(mess.admin)
                 let response = await Bellah.groupInviteCode(m.chat)
-                Bellah.sendText(m.chat, `👥 *GROUP LINK BY VolTah XMD*\n📛 *Name :* ${groupMetadata.subject}\n👤 *Owner Grup :* ${groupMetadata.owner !== undefined ? '+'+ groupMetadata.owner.split`@`[0] : 'Not known'}\n🌱 *ID :* ${groupMetadata.id}\n🔗 *Chat Link :* https://chat.whatsapp.com/${response}\n👥 *Member :* ${groupMetadata.participants.length}\n`, m, {
+                Bellah.sendText(m.chat, `👥 *GROUP LINK BY ꜰɪɴᴊᴏʜɴꜱ XMD*\n📛 *Name :* ${groupMetadata.subject}\n👤 *Owner Grup :* ${groupMetadata.owner !== undefined ? '+'+ groupMetadata.owner.split`@`[0] : 'Not known'}\n🌱 *ID :* ${groupMetadata.id}\n🔗 *Chat Link :* https://chat.whatsapp.com/${response}\n👥 *Member :* ${groupMetadata.participants.length}\n`, m, {
                     detectLink: true
                 })
             break
@@ -2946,7 +2946,7 @@ case 'linkgroup':
 
 //========================================================\\
     case 'play': {
-    if (!text) return reply(`provide a song name dude, Example: ${prefix + command} tiktoker by Giddy Tennor`);
+    if (!text) return reply(`provide a song name dude, Example: ${prefix + command} tiktoker by Vinkel Jinwiil`);
 
     const query = text.trim(); 
     await Bellah.sendMessage(m.chat, { react: { text: "🎙️", key: m.key } });
@@ -3024,7 +3024,7 @@ case 'kickall': {
  await Bellah.groupParticipantsUpdate(m.chat, [(args[0] === "numBut") ? `${remove}@s.whatsapp.net` : remove], "remove");
  await sleep(3000);
  }
- m.reply(`Voltah XMD HAS SUCCESSFULLY REMOVED ALL GROUP PARTICIPANTS`);
+ m.reply(`ꜰɪɴᴊᴏʜɴꜱ XMD HAS SUCCESSFULLY REMOVED ALL GROUP PARTICIPANTS`);
 }
 break  
         
@@ -3136,7 +3136,7 @@ case 'getbio':{
 }
 break
   //========================================================\\  
-                //tennor
+                //Jinwiil
             default:
                 if (budy.startsWith('=>')) {
                     if (!Owner) return reply(mess.owner)
