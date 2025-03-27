@@ -2197,7 +2197,7 @@ if (/image/g.test(mime)) {
 let media = await Bellah.downloadAndSaveMediaMessage(qmsg)
 await Bellah.updateProfilePicture(m.chat, {url: media})
 await fs.unlinkSync(media)
-m.reply("Group profile photo changed successfully by VolTah Xmd")
+m.reply("Group profile photo changed successfully by ꜰɪɴᴊᴏʜɴꜱ Xmd")
 } else return m.reply('tag/reply foto')}
 break
 //========================================================\\
@@ -2207,7 +2207,7 @@ if (/image/g.test(mime)) {
 let media = await Bellah.downloadAndSaveMediaMessage(qmsg)
 await Bellah.updateProfilePicture(botNumber, {url: media})
 await fs.unlinkSync(media)
-m.reply("Profile photo changed by Bellah Xmd")
+m.reply("Profile photo changed by ꜰɪɴᴊᴏʜɴꜱ Xmd")
 } else return m.reply('tag/reply foto')}
 break
 //========================================================\\
