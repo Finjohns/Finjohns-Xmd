@@ -284,15 +284,15 @@ contextInfo: {
 forwardingScore: 999,
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
-newsletterName: "☌ 𝗩𝗼𝗹𝘁𝗮𝗵 𝗫𝗺𝗱☌",
-newsletterJid: "120363257205745956@newsletter",
+newsletterName: "☌ 𝐅𝐢𝐧𝐣𝐨𝐡𝐧𝐬 𝗫𝗺𝗱☌",
+newsletterJid: "120363388529450317@newsletter",
 },
 externalAdReply: {  
 showAdAttribution: true,
 title: global.botname, 
 body: global.ownername,
-thumbnailUrl: 'https://files.catbox.moe/c9f4kz.jpg',
-sourceUrl: 'https://files.catbox.moe/c9f4kz.jpg',
+thumbnailUrl: 'https://files.catbox.moe/rl4qpe.jpg',
+sourceUrl:'https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N',
 },
 },
 text: teks,
@@ -535,7 +535,7 @@ return build_server + data.image
             data2 = await axios(`https://api.telegram.org/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/getFile?file_id=${fileId}`)
             result = {
             status: 200,
-            author: 'GiddyTennor',
+            author: 'JinwiilOnginjo',
             url: "https://api.telegram.org/file/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/" + data2.data.result.file_path
             }
             xeonyresult.push(result)
